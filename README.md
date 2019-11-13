@@ -3,7 +3,7 @@
 
 Выполнить:
 ```
-composer require yngc0der/bitrix-phpcondition
+composer require yngc0der/bitrix-phpcondition:dev-master
 ```
 и
 ```
