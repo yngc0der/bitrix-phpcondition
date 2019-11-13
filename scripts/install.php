@@ -13,4 +13,4 @@ require(__DIR__ . '/../install/index.php');
 $module = new yngc0der_phpcondition(true);
 $module->DoInstall();
 
-echo 'ok';
+echo "ok\n";
